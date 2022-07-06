@@ -1,6 +1,6 @@
-# Math Magicians
+# React Todo App
 
-> This is the app where you could see information about shows as well as leave likes and comments on your favorite shows.
+> A small to do react app
 
 ![screenshot](./screenshot-1.png)
 
